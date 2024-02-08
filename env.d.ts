@@ -3,3 +3,5 @@ declare module 'nprogress';
 declare module '@vueuse/head';
 declare module 'pages-generated';
 declare module '@vueuse/core';
+declare module '@/utils/regex';
+declare module '@/components/*';

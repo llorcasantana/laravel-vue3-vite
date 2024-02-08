@@ -5,7 +5,7 @@ export const apiSymbol: InjectionKey<AxiosInstance> = Symbol()
 
 export function initApi(session: any){
   const api = axios.create({
-    baseURL: 'http://localhost:8080',
+    baseURL: document.location.origin+'/api/',
   })
   api.interceptors.request.use((config) => {
     if (session.token) {

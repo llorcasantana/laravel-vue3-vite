@@ -7,6 +7,24 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+
+## This project includes the following libraries:
+
+Axios - for api request
+
+Vite plugin pages - for better router between pages
+
+Nprogress - for transaction between pages
+
+Bulma Css - A great CSS framework
+
+i18n - Internationalization
+
+Sass - CSS with superpowers
+
+Laravel - A php framework 
+
+
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
