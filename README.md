@@ -18,6 +18,7 @@ Laravel - A php framework v^10.10
 ## Updates
 
 6/17/2024 - Add bulma 1.0.0
+
 6/17/2024 - Add passport to Laravel application
 
 ## How to install
